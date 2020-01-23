@@ -1,4 +1,9 @@
 {
     "uname":"devday",
-    "pwd":"Devday@123"
+    "pwd":"Devday@123",
+    "workshop":"IMR Service Center",
+    "vehicle":"BMW X5",
+    "bookingOption":"Standard",
+    "services":"Check engine fuel",
+    "inspection":"Inspect engine"
 }
